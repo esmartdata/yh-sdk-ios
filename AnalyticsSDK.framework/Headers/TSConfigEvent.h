@@ -11,13 +11,13 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TSConfigEvent : NSObject
 /// 事件名称
-@property (nonatomic, copy) NSString *event_name;
+@property (nonatomic, copy) NSString *eventName;
 /// JsonString 事件属性，可自定义，值为key-value的键值对字 符串
 //@property (nonatomic, copy) NSString *event_param;
 /// 传对象
-@property (nonatomic, strong) NSDictionary *event_param;
-@property (nonatomic, copy) NSString *element_position;
-@property (nonatomic, copy) NSString *element_selector;
+@property (nonatomic, strong) NSDictionary *eventParam;
+//@property (nonatomic, copy) NSString *element_position;
+//@property (nonatomic, copy) NSString *element_selector;
 
 @end
 
