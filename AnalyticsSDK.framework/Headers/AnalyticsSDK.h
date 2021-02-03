@@ -22,4 +22,4 @@ FOUNDATION_EXPORT const unsigned char AnalyticsSDKVersionString[];
 #import <AnalyticsSDK/TSConfigPage.h>
 #import <AnalyticsSDK/TSConfigPageSession.h>
 #import <AnalyticsSDK/TSConfigEvent.h>
-#import <AnalyticsSDK/NSString+Category.h>
+
