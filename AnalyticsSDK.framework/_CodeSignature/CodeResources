@@ -6,7 +6,11 @@
 	<dict>
 		<key>Headers/AnalyticsSDK.h</key>
 		<data>
-		bagcmbXSp/JikqFwmp8kZhoN2AE=
+		vfKop+00pFCBkxt4h1mh3CD3BVE=
+		</data>
+		<key>Headers/NSString+Category.h</key>
+		<data>
+		af2RdAh22nxjmCe4AebL8qqT/MI=
 		</data>
 		<key>Headers/TSAnalyticsSDK.h</key>
 		<data>
@@ -51,11 +55,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bagcmbXSp/JikqFwmp8kZhoN2AE=
+			vfKop+00pFCBkxt4h1mh3CD3BVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0yUwcvdzQIfLXIFCWNSEJYhUfahpcfJDOjPZBs/i1w=
+			wDHlzLtWgV3nO7Qs20UGvsSjbJI7qJbvpiEmo/xWwig=
+			</data>
+		</dict>
+		<key>Headers/NSString+Category.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			af2RdAh22nxjmCe4AebL8qqT/MI=
+			</data>
+			<key>hash2</key>
+			<data>
+			EiwGLIQjUVnN0RuxECUw1P9IF2xhF7RO7+vbThlsmd8=
 			</data>
 		</dict>
 		<key>Headers/TSAnalyticsSDK.h</key>
