@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <UIKit/UIKit.h>
 NS_ASSUME_NONNULL_BEGIN
 
 @interface TSConfigPageSession : NSObject
@@ -25,6 +25,13 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) NSTimeInterval end_session_time;
 /// 页面停留时间，会话开始与结束的时间差，保留 两位小数
 @property (nonatomic, assign) double session_duration;
+
+/// 当前页面路径
+@property (nonatomic, copy) NSString *current_path;
+/// 当前页面唯一标识(如页面路径)
+@property (nonatomic, copy) NSString *page_id;
+
+@property (nonatomic, strong) UIViewController *currentViewController;
 
 @end
 

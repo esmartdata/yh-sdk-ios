@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/NSString+Category.h</key>
 		<data>
-		af2RdAh22nxjmCe4AebL8qqT/MI=
+		SFyZz7sE4+2C7uHA1OTNKYJjo9A=
 		</data>
 		<key>Headers/TSAnalyticsSDK.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/TSConfigPageSession.h</key>
 		<data>
-		LYZm+7pO0VOGhBEbNya+1pNh3Wc=
+		ck9ahC5hHTN+Mx7r2L6dVA8OjBo=
 		</data>
 		<key>Headers/TSConfigReport.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Z2Qhz9Gr+9H+UUmUPIf3BY5Xj7k=
+		HyTyYFOAkgdQmgtPbN+wawrAc+c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,11 +66,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			af2RdAh22nxjmCe4AebL8qqT/MI=
+			SFyZz7sE4+2C7uHA1OTNKYJjo9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			EiwGLIQjUVnN0RuxECUw1P9IF2xhF7RO7+vbThlsmd8=
+			jv2LVFyTbQaNhZNK9D/iV7Z+Dl8t8PK3klJ8/nJ09MM=
 			</data>
 		</dict>
 		<key>Headers/TSAnalyticsSDK.h</key>
@@ -121,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LYZm+7pO0VOGhBEbNya+1pNh3Wc=
+			ck9ahC5hHTN+Mx7r2L6dVA8OjBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			WQRvSvp6VLzysH8sKUG7XoJiYtJlld9hoXt5EGdj/HE=
+			HFDIh9tPR0X9WhEyeaojMlOJZ7L9tUpClzfyJrUtmyk=
 			</data>
 		</dict>
 		<key>Headers/TSConfigReport.h</key>
