@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "TSAnalyticsSDK-iOS"
-  s.version      = "2.0.4"
+  s.version      = "2.0.5"
   s.summary      = "Analytics framework to CocoaPods"
   s.description  = <<-DESC
                        this is Analytics framework, now upload it to cocoapod
