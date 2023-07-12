@@ -50,7 +50,6 @@ NS_ASSUME_NONNULL_BEGIN
 //校验合法域名
 + (BOOL)achiveStringWithWeb:(NSString *)infor;
 
-+ (BOOL)stringIsNullOrEmpty:(NSString *)str;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/NSString+Category.h</key>
 		<data>
-		SFyZz7sE4+2C7uHA1OTNKYJjo9A=
+		af2RdAh22nxjmCe4AebL8qqT/MI=
 		</data>
 		<key>Headers/TSAnalyticsSDK.h</key>
 		<data>
-		ojjTKkfwl+nucpg3UfgeO6mm0O8=
+		zl5TzJJHAn8lD7/y9s+ksC2FKtw=
 		</data>
 		<key>Headers/TSConfigEvent.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/TSConfigOptions.h</key>
 		<data>
-		X1Dsj0Ol7JARbWyqfVeHoCxfaZg=
+		z+BQ+XiUE9gGZlmhF8r+4boCZ80=
 		</data>
 		<key>Headers/TSConfigPage.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/TSConfigPageSession.h</key>
 		<data>
-		ck9ahC5hHTN+Mx7r2L6dVA8OjBo=
+		LYZm+7pO0VOGhBEbNya+1pNh3Wc=
 		</data>
 		<key>Headers/TSConfigReport.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HyTyYFOAkgdQmgtPbN+wawrAc+c=
+		DkSIrD9pI3+Vib1Ck9Z+CQ+4KSo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,22 +66,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SFyZz7sE4+2C7uHA1OTNKYJjo9A=
+			af2RdAh22nxjmCe4AebL8qqT/MI=
 			</data>
 			<key>hash2</key>
 			<data>
-			jv2LVFyTbQaNhZNK9D/iV7Z+Dl8t8PK3klJ8/nJ09MM=
+			EiwGLIQjUVnN0RuxECUw1P9IF2xhF7RO7+vbThlsmd8=
 			</data>
 		</dict>
 		<key>Headers/TSAnalyticsSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ojjTKkfwl+nucpg3UfgeO6mm0O8=
+			zl5TzJJHAn8lD7/y9s+ksC2FKtw=
 			</data>
 			<key>hash2</key>
 			<data>
-			x9zRDIwkQovVQ0kCepCBm8keD/o244Rnh7dE5isYumA=
+			okWZVxfDJAdPQmQK/ja+q4Y2UOpsow+gmyRDNHnAjbQ=
 			</data>
 		</dict>
 		<key>Headers/TSConfigEvent.h</key>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X1Dsj0Ol7JARbWyqfVeHoCxfaZg=
+			z+BQ+XiUE9gGZlmhF8r+4boCZ80=
 			</data>
 			<key>hash2</key>
 			<data>
-			tq/E4mG8jo+pNIJU/p22b+CuEvO2viWzL12RkIyNcqY=
+			SY/X+jDVwxqkg32i1OmQ3OVXUr1mTpSfUasmdYdYNKI=
 			</data>
 		</dict>
 		<key>Headers/TSConfigPage.h</key>
@@ -121,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ck9ahC5hHTN+Mx7r2L6dVA8OjBo=
+			LYZm+7pO0VOGhBEbNya+1pNh3Wc=
 			</data>
 			<key>hash2</key>
 			<data>
-			HFDIh9tPR0X9WhEyeaojMlOJZ7L9tUpClzfyJrUtmyk=
+			WQRvSvp6VLzysH8sKUG7XoJiYtJlld9hoXt5EGdj/HE=
 			</data>
 		</dict>
 		<key>Headers/TSConfigReport.h</key>

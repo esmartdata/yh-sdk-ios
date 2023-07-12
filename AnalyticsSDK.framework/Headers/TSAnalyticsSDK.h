@@ -21,9 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (NSString*)setPageName;
 /// 当前页面标题
 - (NSString*)setPageTitle;
-
 @end
-
 
 @interface TSAnalyticsSDK : NSObject
 
