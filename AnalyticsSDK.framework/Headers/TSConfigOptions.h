@@ -101,7 +101,7 @@ typedef NS_ENUM(NSInteger, TSAnalyticsDebugMode) {
 /// 来源渠道
 @property (nonatomic, copy) NSString *business_channel;
 
-/// 来源渠道
+/// 时间戳
 @property (nonatomic) NSTimeInterval timestamp;
 
 @property (nonatomic, assign) BOOL isShield;
