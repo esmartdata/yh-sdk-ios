@@ -19,6 +19,26 @@ typedef NS_ENUM(NSInteger, TSAnalyticsDebugMode) {
     TSAnalyticsDebugOnly,
 };
 
+/**
+ * @abstract
+ * AutoTrack 中的事件类型
+ *
+ * @discussion
+ *   TSAnalyticsAutoTrackEventTypeAppStart - $AppStart
+ *   TSAnalyticsAutoTrackEventTypeAppEnd - $AppEnd
+ *   TSAnalyticsAutoTrackEventTypeAppClick - $AppClick
+ *   TSAnalyticsAutoTrackEventTypeAppViewScreen - $AppViewScreen
+ *   TSAnalyticsEventTypeAppViewSession - $AppViewSession
+ */
+typedef NS_OPTIONS(NSInteger, TSAnalyticsAutoTrackEventType) {
+    TSAnalyticsEventTypeNone      = 0,
+    TSAnalyticsEventTypeAppStart      = 1 << 0,
+    TSAnalyticsEventTypeAppEnd        = 1 << 1,
+    TSAnalyticsEventTypeAppClick      = 1 << 2,
+    TSAnalyticsEventTypeAppViewScreen = 1 << 3,
+    TSAnalyticsEventTypeAppViewSession = 1 << 4,
+};
+
 @interface TSConfigOptions : NSObject
 
 /**
@@ -47,6 +67,8 @@ typedef NS_ENUM(NSInteger, TSAnalyticsDebugMode) {
 
 /// 是否是调试模式
 @property (nonatomic) TSAnalyticsDebugMode debugMode;
+
+@property (nonatomic) TSAnalyticsAutoTrackEventType autoTrackEventType;
 
 /// 同一个应用，有不同版本时，以该属性区分
 @property (nonatomic, copy) NSString *ts_app;
