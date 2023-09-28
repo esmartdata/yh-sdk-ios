@@ -1,0 +1,6 @@
+framework module AnalyticsSDK {
+  umbrella header "AnalyticsSDK.h"
+
+  export *
+  module * { export * }
+}
